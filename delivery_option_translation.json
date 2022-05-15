@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "delivery_option_id": 1,
+        "language": "TR",
+        "translation": "Standard Teslimat"
+    },
+    {
+        "id": 2,
+        "delivery_option_id": 1,
+        "language": "EN",
+        "translation": "Standard Delivery"
+    },
+    {
+        "id": 3,
+        "delivery_option_id": 2,
+        "language": "TR",
+        "translation": "Hızlı Teslimat"
+    },
+    {
+        "id": 4,
+        "delivery_option_id": 2,
+        "language": "EN",
+        "translation": "Fast Delivery"
+    }
+]

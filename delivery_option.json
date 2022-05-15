@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Standard Delivery",
+        "translations": {
+            "TR": "Standard Teslimat",
+            "EN": "Standard Delivery"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Fast Delivery",
+        "translations": {
+            "TR": "Hızlı Teslimat",
+            "EN": "Fast Delivery"
+        }
+    }
+]
